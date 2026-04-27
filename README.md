@@ -4,13 +4,13 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Solution+Architect;Full-Stack+Developer;AI+Agent+Systems+Specialist;Cloud+Native+Engineer;Open+Source+Contributor)](https://github.com/fq-09)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Solution+Architect;Full-Stack+Developer;AI+Agent+Systems+Specialist;Cloud+Native+Engineer;Open+Source+Contributor)](https://github.com/fcode09)
 
 <br>
 
 <p>
   <a href="https://www.linkedin.com/in/freddy-quea/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/fq-09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/fcode09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.instagram.com/coders.qj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:ruben.quea@tecsup.edu.pe"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -48,7 +48,7 @@ const freddy = {
 <br clear="right"/>
 
 <div align="center">
-  <a href="https://github.com/fq-09?tab=repositories"><img src="https://img.shields.io/badge/View_My_Work-61AFEF?style=for-the-badge&logoColor=white" alt="View My Work"/></a>
+  <a href="https://github.com/fcode09?tab=repositories"><img src="https://img.shields.io/badge/View_My_Work-61AFEF?style=for-the-badge&logoColor=white" alt="View My Work"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=61AFEF&height=3&section=header" width="100%">
@@ -109,24 +109,24 @@ const freddy = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fq-09&show_icons=true&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&icon_color=61AFEF&text_color=E5C07B" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fq-09&theme=onedark&hide_border=true&background=282C34&stroke=61AFEF&ring=61AFEF&fire=E06C75&currStreakLabel=61AFEF&sideLabels=E5C07B" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fcode09&show_icons=true&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&icon_color=61AFEF&text_color=E5C07B" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcode09&theme=onedark&hide_border=true&background=282C34&stroke=61AFEF&ring=61AFEF&fire=E06C75&currStreakLabel=61AFEF&sideLabels=E5C07B" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fq-09&layout=compact&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=E5C07B&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcode09&layout=compact&theme=onedark&hide_border=true&bg_color=282C34&title_color=61AFEF&text_color=E5C07B&langs_count=8" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fq-09&theme=onedark&no-frame=true&column=7&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C&bg_color=282C34" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fcode09&theme=onedark&no-frame=true&column=7&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C&bg_color=282C34" />
 </div>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fq-09/fq-09/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fq-09/fq-09/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fq-09/fq-09/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fcode09/fcode09/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fcode09/fcode09/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fcode09/fcode09/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=61AFEF&height=3&section=header" width="100%">
@@ -136,12 +136,12 @@ const freddy = {
 <div align="center">
 
 <!-- Add your featured projects here - replace repo names -->
-<a href="https://github.com/fq-09">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fq-09&repo=gps-routing-lib&theme=onedark&bg_color=282C34&title_color=61AFEF&icon_color=61AFEF&text_color=E5C07B&hide_border=true" />
+<a href="https://github.com/fcode09">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fcode09&repo=gps-routing-lib&theme=onedark&bg_color=282C34&title_color=61AFEF&icon_color=61AFEF&text_color=E5C07B&hide_border=true" />
 </a>
 
-<a href="https://github.com/fq-09">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fq-09&repo=ai-agent-router&theme=onedark&bg_color=282C34&title_color=61AFEF&icon_color=61AFEF&text_color=E5C07B&hide_border=true" />
+<a href="https://github.com/fcode09">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fcode09&repo=ai-agent-router&theme=onedark&bg_color=282C34&title_color=61AFEF&icon_color=61AFEF&text_color=E5C07B&hide_border=true" />
 </a>
 
 </div>
@@ -161,7 +161,7 @@ const freddy = {
   <a href="mailto:ruben.quea@tecsup.edu.pe">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/fq-09">
+  <a href="https://github.com/fcode09">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/coders.qj/">
@@ -172,7 +172,7 @@ const freddy = {
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fq-09&style=for-the-badge&color=61AFEF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fcode09&style=for-the-badge&color=61AFEF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=61AFEF&height=120&section=footer" width="100%">
