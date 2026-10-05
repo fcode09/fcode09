@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-labelledby="title description">
+  <title id="title">Freddy Quea — Full-stack Developer</title>
+  <desc id="description">A graphite header with cyan geometric accents and Freddy Quea's name and role.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111820"/>
+      <stop offset="1" stop-color="#0B1016"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="799" height="219" rx="16" fill="url(#background)" stroke="#26333E"/>
+
+  <g fill="none" stroke="#67E8F9" stroke-width="1">
+    <path d="M592 0V46L664 118H800" opacity="0.12"/>
+    <path d="M636 0V28L716 108H800" opacity="0.08"/>
+    <path d="M560 220V186L632 114" opacity="0.12"/>
+    <path d="M720 44L762 68V116L720 140L678 116V68Z" opacity="0.25"/>
+    <path d="M720 65L744 79V105L720 119L696 105V79Z" opacity="0.15"/>
+    <path d="M720 140V173H768" opacity="0.25"/>
+  </g>
+  <circle cx="720" cy="92" r="4" fill="#67E8F9"/>
+  <circle cx="768" cy="173" r="2.5" fill="#67E8F9" opacity="0.6"/>
+
+  <path d="M44 44H92" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
+  <text x="44" y="119" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Freddy Quea</text>
+  <text x="46" y="162" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="30">Full-stack Developer</text>
+  <path d="M44 193H500" stroke="url(#accent)" opacity="0.35"/>
+</svg>
