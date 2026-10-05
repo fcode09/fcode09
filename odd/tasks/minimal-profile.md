@@ -16,7 +16,7 @@ Delivery: ask-on-risk; estimated 330 authored changed lines, one coherent work-u
 RDD: off (global); do not start native review or ask for review consent.
 
 ## Tasks
-- [ ] T1 — Profile and local SVG implemented and checked; closure awaits commit identity. Route: direct inline by explicit user override ("usa el agente actual") after unavailable delegated model.
+- [x] T1 — Profile and local SVG implemented, checked and committed in 80d9141. Route: direct inline by explicit user override ("usa el agente actual") after unavailable delegated model.
 
 ## Acceptance and verification
 - English bio: I build web and mobile apps, automations, and AI tools.
@@ -40,7 +40,7 @@ Implemented on feat/minimal-profile. Delegation blocker resolved by the user's e
 - Full GitHub rendering, browser interaction and remote LinkedIn reachability: not tested; no remote operations authorized/performed.
 - Existing workflows and untracked .atl/ preserved. No application test runner applies.
 - RDD: disabled/unmanaged; no native review started.
-- Work-unit commit: blocked by missing Git author identity (user.name/user.email). No identity guessed or configured. Initial staged diff: 88 additions + 176 deletions = 264 authored changed lines, below delivery threshold.
+- Work-unit commit: 80d9141 (`docs(profile): simplify bilingual full-stack introduction`). User supplied Git identity; configured only in this repository. Work-unit diff: 88 additions + 176 deletions = 264 authored changed lines, below delivery threshold.
 
 ## Next step
-Ask the user for Git author name/email and local configuration authorization; then commit, record its identity and close T1. Publishing remains the user's decision.
+Implementation complete. Preview in GitHub after user-authorized publishing; no push performed. Full hosted rendering remains unverified.
